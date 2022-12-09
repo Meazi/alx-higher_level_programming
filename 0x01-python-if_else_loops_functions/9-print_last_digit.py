@@ -7,3 +7,4 @@ def print_last_digit(number):
         return(pos_mod)
     else:
         print(number % 10, end='')
+        return(number)
