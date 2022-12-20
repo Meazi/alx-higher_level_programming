@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 def print_reversed_list_integer(my_list=[]):
     lst = []
-    if my_lis is None:
+    if my_list is None:
         return
     for i in my_list:
         lst.insert(0, i)
