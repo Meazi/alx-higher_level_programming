@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 def max_integer(my_list=[]):
     largest_num = None
-    if my_list == None:
+    if my_list is None:
         return ("None")
     else:
         for num in my_list:
